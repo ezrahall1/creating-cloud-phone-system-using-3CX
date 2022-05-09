@@ -34,6 +34,14 @@ Click on attach existing policies directly
 The user you have created would need access to the EC2. You would need to search for AmazonEC2FullAccess and select it and click next:tags
 <img src="https://i.imgur.com/bN71U2V.png" height="80%" width="80%" alt="Image 5"/>
 
+Skip the tags section by clicking next:review
+<img src="https://i.imgur.com/o33zyyW.png" height="80%" width="80%" alt="Image 6"/>
+
+Click on create user
+<img src="https://i.imgur.com/HdGv22w.png" height="80%" width="80%" alt="Image 7"/>
+
+
+
 
 
 <H3>Step 2 – Enable static website hosting </H3>
