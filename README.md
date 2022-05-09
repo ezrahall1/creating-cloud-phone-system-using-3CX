@@ -115,6 +115,7 @@ You would need to select Amazon - AWS for the hosting and enter in your access k
 Make sure you select the correct region in order for the key pair to auto fill in, click next to continue.
 <img src="https://i.imgur.com/PrcXQmw.png" height="80%" width="80%" alt="Image 26"/>
 
+
 Click accept and proceed.
 <img src="https://i.imgur.com/aNkq6Qf.png" height="80%" width="80%" alt="Image 27"/>
 
