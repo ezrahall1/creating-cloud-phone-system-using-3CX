@@ -91,7 +91,9 @@ Fill out the form with your personal details and click next
 
 <img src="https://i.imgur.com/FrKQ6on.png" height="80%" width="80%" alt="Image 19"/>
 
+Select self-host in your Cloud and click next
 
+<img src="https://i.imgur.com/XafXYyk.png" height="80%" width="80%" alt="Image 20"/>
 
 
 
