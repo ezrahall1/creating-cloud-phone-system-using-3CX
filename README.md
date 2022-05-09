@@ -45,27 +45,14 @@ Click on create user
 Before you click close make sure you have downloaded the .csv credentials.
 <img src="https://i.imgur.com/lkmBYlP.png" height="80%" width="80%" alt="Image 8"/>
 
+<H3>Step 2 – Creating EC2 instance and key pair</H3>
+From there you would need to head over to the EC2 section and make sure you select the region closest to where you live.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<H3>Step 2 – Enable static website hosting </H3>
-Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
-<img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
+<img src="https://i.imgur.com/gq2nNx2.png" height="80%" width="80%" alt="Image 9"/>
 <br />
 <br />
+
+
 In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
