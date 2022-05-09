@@ -117,6 +117,7 @@ Make sure you select the correct region in order for the key pair to auto fill i
 
 
 Click accept and proceed.
+
 <img src="https://i.imgur.com/aNkq6Qf.png" height="80%" width="80%" alt="Image 27"/>
 
 It will take about 10 minutes for 3CX to be install, make sure you take a note of your password.
