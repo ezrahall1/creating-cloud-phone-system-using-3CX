@@ -24,6 +24,7 @@ Once you have logged into the AWS account you would need to click on services>IA
 <br />
 Click on add user (this account will be used for 3CX)
 <img src="https://i.imgur.com/vfHCrkI.png" height="80%" width="80%" alt="Image 2"/>
+
 Enter a username and tick programmatic access, click next permissions.
 <br />
 <br />
