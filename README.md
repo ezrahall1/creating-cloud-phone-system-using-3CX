@@ -9,7 +9,7 @@ This project is about how I set up 3CX phone system in AWS. I have provided a gu
 
 - <b>IAM</b> 
 - <b>AWS Marketplace</b> 
-- <b>3CX</b> 
+- <b>3CX Phone System</b> 
 
 <h2>Environments Used </h2>
 
