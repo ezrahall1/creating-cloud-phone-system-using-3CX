@@ -62,18 +62,22 @@ Key pair would have automatically downloaded to your machine (keep it safe as th
 
 <H3>Step 3 – Subscribe to Debian GNU/Linux 9 (stretch)</H3>
 You would need to head over to the AWS Marketplace click on manage subscriptions.
+
 Click on discover products
 
 <img src="https://i.imgur.com/PlUeMjh.png" height="80%" width="80%" alt="Image 13"/>
 
+In the search box enter in Debian 9, click to select it.
+<img src="https://i.imgur.com/Hb3Aoba.png" height="80%" width="80%" alt="Image 14"/>
+
+Click on continue to subscribe in order to install Debian 9 and accept all the terms.
+<img src="https://i.imgur.com/rJqqksw.png" height="80%" width="80%" alt="Image 15"/>
+
+Click on continue configuration
+<img src="https://i.imgur.com/ROdj4Pa.png" height="80%" width="80%" alt="Image 16"/>
 
 
-Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
 
-<img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
-
-This shows that I successfully created a static website in AWS
-<img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
 
 </p>
 
