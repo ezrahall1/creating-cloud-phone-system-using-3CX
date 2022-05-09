@@ -109,6 +109,7 @@ Select 4 digits as your extension length and click next.
 <img src="https://i.imgur.com/4WsmKZR.png" height="80%" width="80%" alt="Image 24"/>
 
 You would need to select Amazon - AWS for the hosting and enter in your access key ID and secret access key from the .CSV you downloaded earlier and click next.
+
 <img src="https://i.imgur.com/bCZjiU9.png" height="80%" width="80%" alt="Image 25"/>
 
 
