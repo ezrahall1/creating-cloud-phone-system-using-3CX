@@ -44,7 +44,7 @@ Click on create user
 
 Before you click close make sure you have downloaded the .csv credentials.
 
-
+<img src="https://i.imgur.com/lkmBYlP.png" height="80%" width="80%" alt="Image 8"/>
 
 
 
