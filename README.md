@@ -124,7 +124,9 @@ Once 3CX is ready you should be able to log into the system.
 
 <img src="https://i.imgur.com/voLYfNy.png" height="80%" width="80%" alt="Image 28"/>
 
+
 Enter in the login details:
+
 <img src="https://i.imgur.com/33zsKxl.png" height="80%" width="80%" alt="Image 29"/>
 
 
