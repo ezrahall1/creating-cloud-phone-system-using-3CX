@@ -76,6 +76,18 @@ Click on continue to subscribe in order to install Debian 9 and accept all the t
 Click on continue configuration
 <img src="https://i.imgur.com/ROdj4Pa.png" height="80%" width="80%" alt="Image 16"/>
 
+<H3>Step 4 – Creating 3CX account</H3>
+You would need to create the 3CX account which can be done from the URL link below:
+
+https://www.3cx.com/phone-system/download-phone-system/
+
+Enter in your name and email address, you would also need to confirm the account via your mailbox
+
+<img src="https://i.imgur.com/6hhhK0i.png" height="80%" width="80%" alt="Image 17"/>
+
+
+
+
 
 
 
