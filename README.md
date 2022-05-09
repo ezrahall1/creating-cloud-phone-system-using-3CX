@@ -27,7 +27,9 @@ Click on add user (this account will be used for 3CX)
 
 Enter a username and tick programmatic access, click next permissions.
 <img src="https://i.imgur.com/ln1BJZL.png" height="80%" width="80%" alt="Image 3"/>
+
 Click on attach existing policies directly
+
 <img src="https://i.imgur.com/MK4P39Q.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
