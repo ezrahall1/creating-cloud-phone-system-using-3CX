@@ -44,6 +44,23 @@ Click on create user
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <H3>Step 2 – Enable static website hosting </H3>
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
