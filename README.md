@@ -28,8 +28,7 @@ Click on add user (this account will be used for 3CX)
 Enter a username and tick programmatic access, click next permissions.
 <br />
 <br />
-Tick the acknowledge box to show that you understand the changes you are making. <br/>
-<img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
+<img src="https://i.imgur.com/ln1BJZL.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
 
