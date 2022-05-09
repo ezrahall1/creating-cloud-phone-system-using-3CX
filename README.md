@@ -85,6 +85,7 @@ Enter in your name and email address, you would also need to confirm the account
 
 <img src="https://i.imgur.com/6hhhK0i.png" height="80%" width="80%" alt="Image 17"/>
 
+<img src="https://i.imgur.com/CYnj4P4.png" height="80%" width="80%" alt="Image 18"/>
 
 
 
