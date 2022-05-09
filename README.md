@@ -132,6 +132,11 @@ Enter in the login details:
 <img src="https://i.imgur.com/33zsKxl.png" height="80%" width="80%" alt="Image 29"/>
 
 
+From there you can download the 3CX app from the Android or iOS store in order to make calls, just use your QR code to configure the settings.
+
+Once you are logged to the admin dashboard you can add more phone extensions, check call history, and configure it to your requirement.
+
+<img src="https://i.imgur.com/nulH8d6.png" height="80%" width="80%" alt="Image 30"/>
 
 </p>
 
