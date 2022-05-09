@@ -39,7 +39,7 @@ Skip the tags section by clicking next:review
 
 
 Click on create user
-<img src="https://i.imgur.com/HdGv22w.png" height="80%" width="80%" alt="Image 7"/>
+
 
 
 
