@@ -29,9 +29,10 @@ Enter a username and tick programmatic access, click next permissions.
 <img src="https://i.imgur.com/ln1BJZL.png" height="80%" width="80%" alt="Image 3"/>
 
 Click on attach existing policies directly
-<img src="https://i.imgur.com/MK4P39Q.png" height="80%" width="80%" alt="Image 3"/>
+<img src="https://i.imgur.com/MK4P39Q.png" height="80%" width="80%" alt="Image 4"/>
 <br />
-<br />
+The user you have created would need access to the EC2. You would need to search for AmazonEC2FullAccess and select it and click next:tags
+<img src="https://i.imgur.com/bN71U2V.png" height="80%" width="80%" alt="Image 5"/>
 
 
 
