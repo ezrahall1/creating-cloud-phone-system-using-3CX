@@ -95,6 +95,9 @@ Select self-host in your Cloud and click next
 
 <img src="https://i.imgur.com/XafXYyk.png" height="80%" width="80%" alt="Image 20"/>
 
+Fill in the details below according to where you live and click next to continue.
+
+<img src="https://i.imgur.com/7A4N68n.png" height="80%" width="80%" alt="Image 21"/>
 
 
 
