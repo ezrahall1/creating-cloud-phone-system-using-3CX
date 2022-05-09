@@ -99,6 +99,15 @@ Fill in the details below according to where you live and click next to continue
 
 <img src="https://i.imgur.com/7A4N68n.png" height="80%" width="80%" alt="Image 21"/>
 
+Check that you are happy with the information on this page and click next.
+
+<img src="https://i.imgur.com/AZz661X.png" height="80%" width="80%" alt="Image 22"/>
+
+<img src="https://i.imgur.com/7tfuXzD.png" height="80%" width="80%" alt="Image 23"/>
+
+Select 4 digits as your extension length and click next.
+
+<img src="https://i.imgur.com/4WsmKZR.png" height="80%" width="80%" alt="Image 24"/>
 
 
 
