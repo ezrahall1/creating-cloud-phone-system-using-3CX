@@ -57,6 +57,12 @@ Click on keypair in order to create a keypair.
 Enter the name of the key pair and select pem as the file format, click create key pair.
 <img src="https://i.imgur.com/Iy3KGZA.png" height="80%" width="80%" alt="Image 11"/>
 
+Key pair would have automatically downloaded to your machine (keep it safe as there is no way to get it back if lost).
+
+<img src="https://i.imgur.com/Vs7NZGf.png" height="80%" width="80%" alt="Image 12"/>
+
+
+
 
 
 
