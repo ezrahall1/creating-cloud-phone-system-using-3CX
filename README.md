@@ -113,10 +113,19 @@ You would need to select Amazon - AWS for the hosting and enter in your access k
 <img src="https://i.imgur.com/bCZjiU9.png" height="80%" width="80%" alt="Image 25"/>
 
 Make sure you select the correct region in order for the key pair to auto fill in, click next to continue.
-
 <img src="https://i.imgur.com/PrcXQmw.png" height="80%" width="80%" alt="Image 26"/>
 
+Click accept and proceed.
+<img src="https://i.imgur.com/aNkq6Qf.png" height="80%" width="80%" alt="Image 27"/>
 
+It will take about 10 minutes for 3CX to be install, make sure you take a note of your password.
+
+Once 3CX is ready you should be able to log into the system.
+
+<img src="https://i.imgur.com/voLYfNy.png" height="80%" width="80%" alt="Image 28"/>
+
+Enter in the login details:
+<img src="https://i.imgur.com/33zsKxl.png" height="80%" width="80%" alt="Image 29"/>
 
 
 
