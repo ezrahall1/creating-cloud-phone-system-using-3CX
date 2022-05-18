@@ -1,7 +1,8 @@
 <h1>Creating Cloud Phone System Using 3CX</h1>
 
 <h2>Description</h2>
-This project is about how I set up 3CX phone system in AWS. I have provided a guide showing what to do every step of the way.
+This project demonstrate how to use AWS to host a phone system in the cloud. To stay within the free tier I used 3CX  extension number instead of using Amazon Chime 
+There is a step by step guide on how to successfully complete this project.
 <br />
 
 
