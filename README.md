@@ -20,6 +20,7 @@ There is a step by step guide on how to successfully complete this project.
 <H3>Step 1 - Create user</H3>
 
 Once you have logged into the AWS account you would need to click on services>IAM>users. Click on users to add a new user.
+
 <img src="https://i.imgur.com/ypb9u3Z.png" height="80%" width="80%" alt="Image 1"/>
 <br />
 <br />
