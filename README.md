@@ -45,11 +45,8 @@ From there I headed over to the EC2 section in order to create the EC2 instance 
 
 <img src="https://i.imgur.com/gq2nNx2.png" height="80%" width="80%" alt="Image 9"/>
 
-Click on keypair in order to create a keypair. 
-
 <img src="https://i.imgur.com/x4P6v3l.png" height="80%" width="80%" alt="Image 10"/>
 
-Enter the name of the key pair and select pem as the file format, click create key pair.
 <img src="https://i.imgur.com/Iy3KGZA.png" height="80%" width="80%" alt="Image 11"/>
 
 <img src="https://i.imgur.com/Vs7NZGf.png" height="80%" width="80%" alt="Image 12"/>
