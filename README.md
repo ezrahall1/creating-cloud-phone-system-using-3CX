@@ -55,19 +55,14 @@ Enter the name of the key pair and select pem as the file format, click create k
 <img src="https://i.imgur.com/Vs7NZGf.png" height="80%" width="80%" alt="Image 12"/>
 
 <H3>Step 3 – Subscribe to Debian GNU/Linux 9 (stretch)</H3>
-In this section I headed over to the AWS Marketplace click on manage subscriptions.
-
-Click on discover products
+In this section I headed over to the AWS Marketplace in order to install Debian 9 
 
 <img src="https://i.imgur.com/PlUeMjh.png" height="80%" width="80%" alt="Image 13"/>
 
-In the search box enter in Debian 9, click to select it.
 <img src="https://i.imgur.com/Hb3Aoba.png" height="80%" width="80%" alt="Image 14"/>
 
-Click on continue to subscribe in order to install Debian 9 and accept all the terms.
 <img src="https://i.imgur.com/rJqqksw.png" height="80%" width="80%" alt="Image 15"/>
 
-Click on continue configuration
 <img src="https://i.imgur.com/ROdj4Pa.png" height="80%" width="80%" alt="Image 16"/>
 
 <H3>Step 4 – Creating 3CX account</H3>
