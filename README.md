@@ -23,13 +23,11 @@ Once I logged into my AWS account I clicked on services>IAM>users then clicked o
 <img src="https://i.imgur.com/ypb9u3Z.png" height="80%" width="80%" alt="Image 1"/>
 <br />
 <br />
-Click on add user (this account will be used for 3CX)
+
 <img src="https://i.imgur.com/vfHCrkI.png" height="80%" width="80%" alt="Image 2"/>
 
-Enter a username and tick programmatic access, click next permissions.
 <img src="https://i.imgur.com/ln1BJZL.png" height="80%" width="80%" alt="Image 3"/>
 
-Click on attach existing policies directly
 <img src="https://i.imgur.com/MK4P39Q.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 
