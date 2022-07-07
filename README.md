@@ -66,7 +66,7 @@ In this section I headed over to the AWS Marketplace in order to install Debian 
 <img src="https://i.imgur.com/ROdj4Pa.png" height="80%" width="80%" alt="Image 16"/>
 
 <H3>Step 4 – Creating 3CX account</H3>
-You would need to create the 3CX account which can be done from the URL link below:
+In this final step I create the 3CX account which can be done from the URL link below:
 
 https://www.3cx.com/phone-system/download-phone-system/
 
