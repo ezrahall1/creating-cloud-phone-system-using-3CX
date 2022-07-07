@@ -2,7 +2,6 @@
 
 <h2>Description</h2>
 This project demonstrate how to use AWS to host a phone system in the cloud. To stay within the free tier I used 3CX  extension number instead of using Amazon Chime. 
-There is a step by step guide on how to successfully complete this project.
 <br />
 
 
