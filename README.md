@@ -41,7 +41,7 @@ Once I logged into my AWS account I clicked on services>IAM>users then clicked o
 
 <H3>Step 2 – Creating EC2 instance and key pair</H3>
 
-From there I headed over to the EC2 section in order to create the EC2 instance and key pair
+From there I headed over to the EC2 section in order to create the EC2 instance and key pair.
 
 <img src="https://i.imgur.com/gq2nNx2.png" height="80%" width="80%" alt="Image 9"/>
 
