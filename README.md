@@ -55,7 +55,7 @@ Enter the name of the key pair and select pem as the file format, click create k
 <img src="https://i.imgur.com/Vs7NZGf.png" height="80%" width="80%" alt="Image 12"/>
 
 <H3>Step 3 – Subscribe to Debian GNU/Linux 9 (stretch)</H3>
-You would need to head over to the AWS Marketplace click on manage subscriptions.
+In this section I headed over to the AWS Marketplace click on manage subscriptions.
 
 Click on discover products
 
