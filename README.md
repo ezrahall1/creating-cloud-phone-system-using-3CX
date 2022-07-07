@@ -66,36 +66,26 @@ In this section I headed over to the AWS Marketplace in order to install Debian 
 <img src="https://i.imgur.com/ROdj4Pa.png" height="80%" width="80%" alt="Image 16"/>
 
 <H3>Step 4 – Creating 3CX account</H3>
-In this final step I create the 3CX account which can be done from the URL link below:
+In this final step I created the 3CX account which can be done from the URL link below:
 
 https://www.3cx.com/phone-system/download-phone-system/
-
-Enter in your name and email address, you would also need to confirm the account via your mailbox
 
 <img src="https://i.imgur.com/6hhhK0i.png" height="80%" width="80%" alt="Image 17"/>
 
 <img src="https://i.imgur.com/CYnj4P4.png" height="80%" width="80%" alt="Image 18"/>
 
-Fill out the form with your personal details and click next
-
 <img src="https://i.imgur.com/FrKQ6on.png" height="80%" width="80%" alt="Image 19"/>
-
-Select self-host in your Cloud and click next
 
 <img src="https://i.imgur.com/XafXYyk.png" height="80%" width="80%" alt="Image 20"/>
 
-Fill in the details below according to where you live and click next to continue.
-
 <img src="https://i.imgur.com/7A4N68n.png" height="80%" width="80%" alt="Image 21"/>
-
-Check that you are happy with the information on this page and click next.
 
 <img src="https://i.imgur.com/AZz661X.png" height="80%" width="80%" alt="Image 22"/>
 
 <img src="https://i.imgur.com/7tfuXzD.png" height="80%" width="80%" alt="Image 23"/>
 
-Select 4 digits as your extension length and click next.
 <img src="https://i.imgur.com/4WsmKZR.png" height="80%" width="80%" alt="Image 24"/>
+
 
 You would need to select Amazon - AWS for the hosting and enter in your access key ID and secret access key from the .CSV you downloaded earlier and click next.
 
