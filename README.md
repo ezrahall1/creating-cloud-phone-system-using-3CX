@@ -32,18 +32,13 @@ Enter a username and tick programmatic access, click next permissions.
 Click on attach existing policies directly
 <img src="https://i.imgur.com/MK4P39Q.png" height="80%" width="80%" alt="Image 4"/>
 <br />
-The user you have created would need access to the EC2. You would need to search for AmazonEC2FullAccess and select it and click next:tags
+
 <img src="https://i.imgur.com/bN71U2V.png" height="80%" width="80%" alt="Image 5"/>
 
-Skip the tags section by clicking next:review
 <img src="https://i.imgur.com/o33zyyW.png" height="80%" width="80%" alt="Image 6"/>
-
-
-Click on create user
 
 <img src="https://i.imgur.com/WuJv7k8.png" height="80%" width="80%" alt="Image 7"/>
 
-Before you click close make sure you have downloaded the .csv credentials.
 <img src="https://i.imgur.com/lkmBYlP.png" height="80%" width="80%" alt="Image 8"/>
 
 <H3>Step 2 – Creating EC2 instance and key pair</H3>
