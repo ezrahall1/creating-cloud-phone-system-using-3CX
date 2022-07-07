@@ -40,7 +40,8 @@ Once I logged into my AWS account I clicked on services>IAM>users then clicked o
 <img src="https://i.imgur.com/lkmBYlP.png" height="80%" width="80%" alt="Image 8"/>
 
 <H3>Step 2 – Creating EC2 instance and key pair</H3>
-From there you would need to head over to the EC2 section and make sure you select the region closest to where you live.
+
+From there I headed over to the EC2 section in order to create the EC2 instance and key pair
 
 <img src="https://i.imgur.com/gq2nNx2.png" height="80%" width="80%" alt="Image 9"/>
 
