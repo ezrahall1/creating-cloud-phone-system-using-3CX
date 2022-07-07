@@ -52,7 +52,7 @@ From there I headed over to the EC2 section in order to create the EC2 instance 
 <img src="https://i.imgur.com/Vs7NZGf.png" height="80%" width="80%" alt="Image 12"/>
 
 <H3>Step 3 – Subscribe to Debian GNU/Linux 9 (stretch)</H3>
-In this section I headed over to the AWS Marketplace in order to install Debian 9 
+In this section I headed over to the AWS Marketplace in order to install Debian 9.
 
 <img src="https://i.imgur.com/PlUeMjh.png" height="80%" width="80%" alt="Image 13"/>
 
