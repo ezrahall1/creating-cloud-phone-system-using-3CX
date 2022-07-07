@@ -98,10 +98,9 @@ This screen shows that 3CX has been successfully configured and I can now login.
 
 <img src="https://i.imgur.com/33zsKxl.png" height="80%" width="80%" alt="Image 29"/>
 
+3CX has an app which can been downloaded from the Android or iOS store in order to make calls, I would just need my QR code to configure the settings.
 
-From there you can download the 3CX app from the Android or iOS store in order to make calls, just use your QR code to configure the settings.
-
-Once you are logged to the admin dashboard you can add more phone extensions, check call history, and configure it to your requirement.
+Now that I am logged into admin dashboard I can add more phone extensions, check call history, and configure it to my requirement.
 
 <img src="https://i.imgur.com/nulH8d6.png" height="80%" width="80%" alt="Image 30"/>
 
