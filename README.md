@@ -92,12 +92,9 @@ https://www.3cx.com/phone-system/download-phone-system/
 
 <img src="https://i.imgur.com/aNkq6Qf.png" height="80%" width="80%" alt="Image 27"/>
 
-Once 3CX is ready you should be able to log into the system.
-
 <img src="https://i.imgur.com/voLYfNy.png" height="80%" width="80%" alt="Image 28"/>
 
-
-Enter in the login details:
+This screen shows that 3CX has been successfully configured and I can now login.
 
 <img src="https://i.imgur.com/33zsKxl.png" height="80%" width="80%" alt="Image 29"/>
 
@@ -109,13 +106,3 @@ Once you are logged to the admin dashboard you can add more phone extensions, ch
 <img src="https://i.imgur.com/nulH8d6.png" height="80%" width="80%" alt="Image 30"/>
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
