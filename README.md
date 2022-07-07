@@ -86,20 +86,11 @@ https://www.3cx.com/phone-system/download-phone-system/
 
 <img src="https://i.imgur.com/4WsmKZR.png" height="80%" width="80%" alt="Image 24"/>
 
-
-You would need to select Amazon - AWS for the hosting and enter in your access key ID and secret access key from the .CSV you downloaded earlier and click next.
-
 <img src="https://i.imgur.com/bCZjiU9.png" height="80%" width="80%" alt="Image 25"/>
 
-Make sure you select the correct region in order for the key pair to auto fill in, click next to continue.
 <img src="https://i.imgur.com/PrcXQmw.png" height="80%" width="80%" alt="Image 26"/>
 
-
-Click accept and proceed.
-
 <img src="https://i.imgur.com/aNkq6Qf.png" height="80%" width="80%" alt="Image 27"/>
-
-It will take about 10 minutes for 3CX to be install, make sure you take a note of your password.
 
 Once 3CX is ready you should be able to log into the system.
 
